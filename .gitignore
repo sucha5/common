@@ -1,6 +1,11 @@
 *.class
-
-# Package Files #
-*.jar
 *.war
 *.ear
+*.swp
+*.iml
+*.ipr
+*.iws
+.DS_Store
+.idea/
+out/
+test/
